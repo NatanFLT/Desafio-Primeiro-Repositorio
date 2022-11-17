@@ -1,0 +1,7 @@
+-UX Designer: Cuida da satisfação do usuário, lidando com fatores relacionados com a experiêmcia do usuário ao usar um produto/serviço. Ex.: usabilidade acessibilidade, persona, etc.
+-UI Designer: Responsável por criar o que o usuário irá ver e utilizar. Precisa entender sobre padrões visuais, cores, tipografia, microinterações, etc.
+-Desenvolvedor Front End: Responsável por programar a parte visual do aplicativo, a parte com que o usuário vai interagir
+-Desenvolvedor Back End: Responsável pela parte mais pesada do código, ligando a interface e o banco de dados. Responsável também peal criação de APIs , que é intermediário que permite que dois aplicativos "converssem" entre si
+-Desenvolvedor Full Stack: Profissional que trabalha tanto com front end, quanto com back end
+-Profissional de Cloud Computing: Responsável pela infraestrutura de nuvem oferecida aos clientes. Desenha sistemas/ambientes de TI, escolhe as tecnologias a serem utilizadas, operadores, forma de integração de peças e depois cuida de tudo
+-Profissional de Quality Assurance: Responsável por verificar se os padrões de qualidade do produto estão sendo atendidos e se os requisitos mínimos serão etregues
